@@ -206,4 +206,4 @@ join.me is available as a complete free version for Windows, featuring all funct
 Unlock the power of effective communication with join.me. Download now and start transforming your meetings!
 
 ---
-**Last updated:** 2026-09-16 22:32:45 UTC
+**Last updated:** 2026-09-17 01:00:16 UTC
